@@ -1,0 +1,18 @@
+{
+    "name": "Admin Test",
+    "email": "admin@test.com",
+    "password": "test"
+}
+
+{
+    "name": "Staff Test",
+    "email": "staff@test.com",
+    "password": "test",
+    "role": "staff"
+}
+
+{
+    "name": "Admin Test 2",
+    "email": "admin2@test.com",
+    "password": "test"
+}
